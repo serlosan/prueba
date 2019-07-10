@@ -7,4 +7,4 @@ navbar:
       href: index.html
     - text: "Ejemplo"
       href: prueba.html
-theme: cosmo
+theme: slate
